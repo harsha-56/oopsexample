@@ -1,0 +1,37 @@
+Advantages of OOP
+Re-usability. It means reusing some facilities rather than building them again and again. ...
+Data Redundancy
+Code Maintenance
+Security
+Better productivity
+Easy troubleshooting
+Polymorphism Flexibility
+Problems solving.
+
+
+#Discuss the benefits of using interfaces.
+Interfaces are essential in Java programming for achieving abstraction, promoting loose coupling,
+and facilitating multiple inheritance-like behavior. They contribute to flexible and maintainable code
+ by defining contracts, enabling dependency injection, and supporting unit testing. By using interfaces
+ , developers can design robust and adaptable software systems that are easier to extend, maintain, and test.
+
+
+#Comparison of Composition and Inheritance
+Composition in Java allows classes to achieve code reuse by containing instances of other classes, promoting
+ flexibility and reducing coupling, whereas inheritance enables subclasses to inherit attributes and behaviors
+ from a superclass, facilitating code reuse and hierarchical relationships at the cost of tighter coupling
+ and potential inflexibility.
+
+#Encapsulation and access control in Java
+ Encapsulation in Java bundles data and methods within a class to ensure data security and integrity,
+ while access control mechanisms regulate visibility and usage of these members to maintain code
+ reliability and modularity.
+
+#Inheritance and polymorphism in Java
+Inheritance allows one class (subclass) to inherit attributes and methods from another class (superclass),
+ facilitating code reuse and hierarchical relationships. Subclasses can extend superclass functionality
+ and override inherited methods to customize behavior.
+
+Polymorphism in Java refers to the ability of objects to take on multiple forms through
+inheritance and interfaces. It allows methods to be called on objects of different classes that share
+a common superclass or interface, promoting flexibility and extensibility in code design.
